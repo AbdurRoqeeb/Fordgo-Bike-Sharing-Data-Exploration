@@ -3,7 +3,7 @@
 
 
 ## Dataset
-This (data set)[https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv] includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. The dataset contained 16 columns and 183412 rows. I perfomed a preliminary wrangking on the data and the shape of the data became 24 columns and 174952 after data cleaning and feature engineering.
+This [data set](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv) includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. The dataset contained 16 columns and 183412 rows. I perfomed a preliminary wrangling on the data and the shape of the data became 24 columns and 174952 after data cleaning and feature engineering.
 
 
 ## Summary of Findings
